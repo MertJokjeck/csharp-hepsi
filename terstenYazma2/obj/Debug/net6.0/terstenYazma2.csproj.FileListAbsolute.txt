@@ -1,0 +1,15 @@
+C:\Dev\CSharp\terstenYazma2\bin\Debug\net6.0\terstenYazma2.exe
+C:\Dev\CSharp\terstenYazma2\bin\Debug\net6.0\terstenYazma2.deps.json
+C:\Dev\CSharp\terstenYazma2\bin\Debug\net6.0\terstenYazma2.runtimeconfig.json
+C:\Dev\CSharp\terstenYazma2\bin\Debug\net6.0\terstenYazma2.dll
+C:\Dev\CSharp\terstenYazma2\bin\Debug\net6.0\terstenYazma2.pdb
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\terstenYazma2.csproj.AssemblyReference.cache
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\terstenYazma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\terstenYazma2.AssemblyInfoInputs.cache
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\terstenYazma2.AssemblyInfo.cs
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\terstenYazma2.csproj.CoreCompileInputs.cache
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\terstenYazma2.dll
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\refint\terstenYazma2.dll
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\terstenYazma2.pdb
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\terstenYazma2.genruntimeconfig.cache
+C:\Dev\CSharp\terstenYazma2\obj\Debug\net6.0\ref\terstenYazma2.dll

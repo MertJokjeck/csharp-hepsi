@@ -1,0 +1,15 @@
+C:\Dev\CSharp\sayisalLoto1\bin\Debug\net6.0\sayisalLoto1.exe
+C:\Dev\CSharp\sayisalLoto1\bin\Debug\net6.0\sayisalLoto1.deps.json
+C:\Dev\CSharp\sayisalLoto1\bin\Debug\net6.0\sayisalLoto1.runtimeconfig.json
+C:\Dev\CSharp\sayisalLoto1\bin\Debug\net6.0\sayisalLoto1.dll
+C:\Dev\CSharp\sayisalLoto1\bin\Debug\net6.0\sayisalLoto1.pdb
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\sayisalLoto1.csproj.AssemblyReference.cache
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\sayisalLoto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\sayisalLoto1.AssemblyInfoInputs.cache
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\sayisalLoto1.AssemblyInfo.cs
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\sayisalLoto1.csproj.CoreCompileInputs.cache
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\sayisalLoto1.dll
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\refint\sayisalLoto1.dll
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\sayisalLoto1.pdb
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\sayisalLoto1.genruntimeconfig.cache
+C:\Dev\CSharp\sayisalLoto1\obj\Debug\net6.0\ref\sayisalLoto1.dll
